@@ -44,20 +44,6 @@
    - Open your browser to `http://localhost:5000`
    - Navigate through the different sections using the dropdown menus
 
-## 🌐 Deployment
-
-### Railway (Recommended)
-1. Sign up at [railway.app](https://railway.app)
-2. Connect your GitHub repository
-3. Deploy automatically
-
-### Heroku
-1. Install Heroku CLI
-2. Run:
-   ```bash
-   heroku create scorpion-copilot
-   git push heroku main
-   ```
 
 ## 📱 Usage
 
